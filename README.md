@@ -1,7 +1,5 @@
 # Twitter Copycat
 
-## Why
-
 This project take parts in an educational basis, to learn easy an advanced feature of HTML5 CSS3. <br>
 There is actually the first main page of Twitter
 
