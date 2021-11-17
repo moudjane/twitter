@@ -71,7 +71,7 @@ To add any tweets use the following steps :
 
  - Here we go, you added a new tweet ! Well done :)
 ```diff
-  - /!\ Make sure to keep the "" when there is some !
+- /!\ Make sure to keep the "" when there is some !
 ```
 
 ## Architecture
